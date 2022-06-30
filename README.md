@@ -1,5 +1,5 @@
 # Tabela-ACME
-# Projeto Prático proposto pela IMã para desenvolvimento da tabela do Brasileirão ACME
+# Projeto Prático proposto pela IMÃ para desenvolvimento da tabela do Brasileirão ACME
 # Desenvolvido por: DANIEL OLIVEIRA
 
 # PRÉVIA
